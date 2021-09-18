@@ -1,5 +1,2 @@
 gradio
-warnings
 nltk
-PorterStemmer
-RegexpTokenizer
